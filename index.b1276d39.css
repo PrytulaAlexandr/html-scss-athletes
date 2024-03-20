@@ -35,6 +35,7 @@ a {
   background-color: #0000;
   margin: 0 auto;
   padding: 10px;
+  transition: all 1s;
   position: relative;
 }
 
@@ -58,7 +59,7 @@ a {
   line-height: 32px;
   position: absolute;
   top: 88px;
-  left: 165px;
+  left: 168px;
 }
 
 .people .person .details .name {
